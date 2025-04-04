@@ -141,7 +141,7 @@ const Pokedex = () => {
   
   return (
 	<div className="w-full min-h-full  p-11 pt-0">
-	<div className="bg-gray-400 rounded-lg shadow-brutalism-lg border-2 border-black">
+	<div className="bg-gray-200 rounded-lg shadow-brutalism-lg border-2 border-black">
 	<div className="p-4">
 	<SearchBar pokemonList={(pokemonList)}></SearchBar>
 	</div>

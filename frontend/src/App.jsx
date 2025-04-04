@@ -116,7 +116,7 @@ const App = () => {
   
   return (
     <Router>
-    <div className="App font-publicSans min-w-screen min-h-screen bg-pokered">
+    <div className="App min-w-screen min-h-screen bg-gray-800 lowercase font-publicSans font-bold">
     <Header handleLogOut={handleLogOut}></Header>
       <main>
       <Routes>
